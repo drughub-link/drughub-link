@@ -31,4 +31,6 @@ If you are looking to explore everything this darknet marketplace offers, always
 
 
 
-Update: link is operational and accessible
+
+
+Update: Corrected broken links in issue templates
