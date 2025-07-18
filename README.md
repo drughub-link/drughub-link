@@ -33,4 +33,6 @@ If you are looking to explore everything this darknet marketplace offers, always
 
 
 
-Update: Corrected broken links in issue templates
+
+
+Update:  07/18/2025 15-06-07 Broken anchors
