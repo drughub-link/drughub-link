@@ -35,4 +35,6 @@ If you are looking to explore everything this darknet marketplace offers, always
 
 
 
-Update:  07/18/2025 15-06-07 Broken anchors
+
+
+Update: Awesome! The link is up and running.
